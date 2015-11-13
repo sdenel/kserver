@@ -11,3 +11,4 @@ dependencies:
 test:
     pre:
         - make
+        - make TARGET_HOST=redpitaya
